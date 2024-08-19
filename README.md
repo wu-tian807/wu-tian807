@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wu-tian807
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Minecraft Forge Modding
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Minecraft NeoForge(Also Forge) Modding
+- 💞️ I’m looking to collaborate on SOMEONE to further study deep learning
 - 📫 How to reach me : use email 2212929908@qq.com to reach me
 
 <!---
